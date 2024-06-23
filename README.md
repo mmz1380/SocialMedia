@@ -1,2 +1,7 @@
-# Social Media - MohammadMebsah Miyanehsaz Sample Project
+# MohammadMebsah Miyanehsaz
+
+# Social Media Mock Project
+
+## Main features:
+ 
 
